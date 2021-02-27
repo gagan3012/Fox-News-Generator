@@ -6,7 +6,7 @@ Creating a new finetuned model using data from FOX news
 
 ### My model can be accessed at: gagan3012/Fox-News-Generator
 
-Check the BenchmarkTest notebook for results
+Check the [BenchmarkTest](https://github.com/gagan3012/Fox-News-Generator/blob/master/BenchmarkTest.ipynb) notebook for results
 
 Find the model at [gagan3012/Fox-News-Generator](https://huggingface.co/gagan3012/Fox-News-Generator)
 
