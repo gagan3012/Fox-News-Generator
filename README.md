@@ -8,6 +8,8 @@ Creating a new finetuned model using data from FOX news
 
 Check the BenchmarkTest notebook for results
 
+Find the model at [gagan3012/Fox-News-Generator](https://huggingface.co/gagan3012/Fox-News-Generator)
+
 ```
 from transformers import AutoTokenizer, AutoModelWithLMHead
 
