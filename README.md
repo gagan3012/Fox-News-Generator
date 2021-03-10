@@ -8,7 +8,7 @@ Creating a new finetuned model using data from FOX news
 
 Check the [BenchmarkTest](https://github.com/gagan3012/Fox-News-Generator/blob/master/BenchmarkTest.ipynb) notebook for results
 
-```
+```python
 from transformers import AutoTokenizer, AutoModelWithLMHead
 
 tokenizer = AutoTokenizer.from_pretrained("gagan3012/Fox-News-Generator")
